@@ -10,7 +10,6 @@ public class Sandwich {
     private String sauce;
     private boolean grille;
 
-    // Constructeur privé accessible uniquement par le Builder interne
     Sandwich( CustomSandwichBuilder builder) {
         this.pain = builder.pain;
         this.viande = builder.viande;
