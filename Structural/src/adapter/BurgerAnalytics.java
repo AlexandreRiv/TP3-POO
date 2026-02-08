@@ -1,7 +1,7 @@
 package adapter;
 
 import java.util.Map;
-/*
+
 public class BurgerAnalytics {
     private AnalyseurVentes analyseur;
     
@@ -17,4 +17,3 @@ public class BurgerAnalytics {
         }
     }
 }
-*/
